@@ -1,0 +1,81 @@
+Site Name:
+========================================
+http://firsttestweb.epizy.com/
+
+
+
+Localhost Server:
+========================================
+
+Database Info:
+--------------
+
+Database name: emon
+
+Database usename: emon
+
+Database user password: AWvVwkBMneuz1SHr
+
+Table Prefix: ep_
+
+
+Wordpress Login Info:
+--------------------
+
+Username: emon
+
+password: 12345@@@
+
+
+
+Live Server Info:
+=========================================
+
+Vista Pannel Info:
+------------------
+Username: epiz_25515768
+
+pass: dkbpy801
+
+Database information:
+---------------------
+Databasse name: epiz_25515768_test
+
+Database username: epiz_25515768
+
+Database password: dkbpy801
+
+Table Prefix: ep_
+
+Database host: sql208.byethost.com
+
+
+Wordpress Dashboard Login Info:
+-------------------------------
+
+Username: emon
+
+password: B%Q6e^bDyKl1L)ty#s
+
+https://app.infinityfree.net/accounts
+-------------------------------
+
+email: justinemon987@gmail.com
+pass: 1tWPE4rRib
+
+https://freewphosti.com/cart.php?a=checkout
+---------------------------------------------
+
+email: justinemon987@gmail.com
+pass: Lcrs@6B7hFWqKmk
+
+https://www.000webhost.com/members/website/list
+-----------------------------------------------
+
+website name: testingairi
+pass: h*jQcXaR6sQnEwx3LNNu
+
+database username: emon (id13590523_emon)
+database name: airi (id13590523_airi)
+database password: RMWgBVGT3$VQud_V
+host: localhost
